@@ -1,0 +1,7 @@
+name: Random Icons
+version: '1.0'
+main: gay.charon.randomicons.RandomIcons
+api-version: 1.18
+authors: [ charon ]
+description: Gathers random icons that you put in folder and on refresh event it sets them as server icon
+website: charon.gay
