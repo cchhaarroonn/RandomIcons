@@ -6,13 +6,13 @@ RandomIcons is simple and usefull plugin if you want to give your servers nice t
 
 Currently supported versions are:
 
-```bash
+```
 ✔️ 1-8-1.18.2
 ```
 
 ## Permissions
 
-```bash
+```
 No permissions needed for this plugin!
 ```
 
